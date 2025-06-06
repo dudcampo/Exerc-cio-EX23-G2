@@ -135,7 +135,7 @@ double contabiliza(ARVORE *r) {
     return r->salario + contabiliza(r->e) + contabiliza(r->d);
 }
 
-*/ Função para desalocar a árvore */
+/* Função para desalocar a árvore */
 
 void desaloca(ARVORE *r) {
     if (r == NULL) return;
