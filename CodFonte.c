@@ -4,7 +4,7 @@
 
 /* 
 Nomes: 
-- Eduarda de Campos Geraldo: Implementei todas as funções e testei o código
+- Eduarda de Campos Geraldo: Implementei todas as funções que foram pedidas e testei o código
 */
 
 #include "definicoes.h"
@@ -134,6 +134,8 @@ double contabiliza(ARVORE *r) {
     if (r == NULL) return 0.0;
     return r->salario + contabiliza(r->e) + contabiliza(r->d);
 }
+
+*/ Função para desalocar a árvore */
 
 void desaloca(ARVORE *r) {
     if (r == NULL) return;
