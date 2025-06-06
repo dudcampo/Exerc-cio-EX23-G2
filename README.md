@@ -6,9 +6,7 @@ gcc CodFonte.c -o ex23
 
 depois disso deu o retorno:
 
-==================================
 Lido 7 nos do arquivo "dados.txt"
-==================================
 
 Depuração: percurso pre-ordem
 123 123.50 Fulano da Silva
