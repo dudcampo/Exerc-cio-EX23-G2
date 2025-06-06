@@ -4,7 +4,7 @@
 
 /* 
 Nomes: 
-- Eduarda de Campos Geraldo: Implementei todas as funções que foram pedidas e testei o código
+- Eduarda de Campos Geraldo: Implementei todas as funções que foram pedidas (com auxilio dos slides e chatGPT) e testei o código
 */
 
 #include "definicoes.h"
