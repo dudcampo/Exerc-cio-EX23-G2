@@ -17,7 +17,6 @@ Depuração: percurso pre-ordem
 250 3450.00 Antonela Fonseca
 500 567.56 Jose Carlos
 
-
 Depuração: percurso em em-ordem
 25 2304.23 Horarcio 
 50 234.45 Beltrano
@@ -27,7 +26,6 @@ Depuração: percurso em em-ordem
 300 345.46 Ciclano
 500 567.56 Jose Carlos
 
-
 Depuração: percurso em pós-ordem
 25 2304.23 Horarcio 
 60 4000.45 Gervazio
@@ -36,7 +34,6 @@ Depuração: percurso em pós-ordem
 500 567.56 Jose Carlos
 300 345.46 Ciclano
 123 123.50 Fulano da Silva
-
 
 Digite um valor a ser buscado:
 60
